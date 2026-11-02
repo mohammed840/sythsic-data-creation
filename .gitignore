@@ -1,0 +1,25 @@
+# Never upload credentials or local datasets
+.env*
+*.env
+*.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+outputs/
+.groundwork/
+.run/
+my-data/
+data/
+tests/
+examples/
+experiments/
+exa-results/
+*.jsonl
+.DS_Store

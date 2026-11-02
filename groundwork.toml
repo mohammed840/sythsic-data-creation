@@ -1,0 +1,10 @@
+[groundwork]
+import_model = "openai/gpt-6-luna"
+root_model = "openai/gpt-6-luna"
+sub_model = "openai/gpt-6-luna"
+target_model = "openai/gpt-6-luna"
+reviewer_model = "openai/gpt-6-luna"
+max_budget = 1.0
+max_calls = 100
+max_iterations = 4
+max_revisions = 0
