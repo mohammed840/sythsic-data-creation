@@ -1,5 +1,7 @@
 # Groundwork Data
 
+![Groundwork CLI demo](assets/terminal-demo.gif)
+
 Local CLI for creating rule-grounded training data and Harbor eval tasks from your own seed files. Supports business refunds, education eligibility, legal contract deadlines, and finance invoice calculations. Uses RLM, a bounded AutoData-inspired loop, and OpenRouter.
 
 This repository includes runtime code and setup only. Supply your own data locally.

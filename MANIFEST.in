@@ -1,2 +1,3 @@
 include README.md LICENSE groundwork.toml .env.example
 recursive-include groundwork *.py
+recursive-include assets *.gif
